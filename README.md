@@ -7,7 +7,7 @@ This repo will contain random stuffs such as code snippets, scripts, projects, t
 project-random
 │   README.md
 └───python
-    ├─ file011.txt
-    └─ file012.txt
+    ├─ file1
+    └─ file2
 
 ```
